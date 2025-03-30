@@ -12,7 +12,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  Let's Connect and have a Chat! 💬
 </h1>
 
-
 <p align="center">
 <a href="https://www.dev.to/medsalem" target="_blank" rel="noreferrer">
 <picture>
@@ -67,9 +66,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
+### TryHackMe
+
+<p align="center">
+<a href="https://tryhackme.com/p/khyr">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/khyr.png" alt="TryHackMe Badge" />
+</a>
+</p>
 
                     
-
+---
 
 ### Badges
 <p align="center">
@@ -87,7 +93,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 ---
-### 🚀  Some Tools I Have Used and Learned
+###  Some Tools I Have Used and Learned
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
