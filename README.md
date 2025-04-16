@@ -74,7 +74,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 </p>
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/khyr.png?timestamp=<!-- TIMESTAMP -->" alt="TryHackMe Badge">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/khyr.png?timestamp=20250416050158" alt="TryHackMe Badge">
 </div>
                     
 ---
