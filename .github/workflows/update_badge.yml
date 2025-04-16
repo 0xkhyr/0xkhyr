@@ -1,0 +1,33 @@
+name: Update TryHackMe Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.9"
+
+    - name: Install Dependencies
+      run: pip install requests
+
+    - name: Update README with Cache-Busted Badge
+      run: python update_readme_badge.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git add README.md
+        git commit -m "Update TryHackMe badge with cache busting"
+        git push

@@ -73,6 +73,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="(https://tryhackme-badges.s3.amazonaws.com/khyr.png?timestamp=2025-04-16T043625" alt="Your Image Badge" />
 </a>
 </p>
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/khyr.png?timestamp=<!-- TIMESTAMP -->" alt="TryHackMe Badge">
+</div>
                     
 ---
 
