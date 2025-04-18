@@ -12,8 +12,8 @@ def update_readme():
     with open(README_PATH, "r") as file:
         content = file.read()
 
-    # Replace the placeholder with the updated URL
-    updated_content = content.replace("https://tryhackme-badges.s3.amazonaws.com/khyr.png?timestamp=<!-- TIMESTAMP -->", cache_busted_url)
+    # Replace the base badge URL with the updated cache-busted URL
+    updated_content = content.replace(BADGE_URL, cache_busted_url)
 
     # Write the updated content back to README.md
     with open(README_PATH, "w") as file:
